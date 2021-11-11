@@ -29,3 +29,11 @@ rosrun control controller.py
 
 
 
+Made by [C.Anzola](https://github.com/CJA798?tab=repositories) 11/11/2021  
+Used and/or referenced code from:  
+- [kynan](https://stackoverflow.com/questions/11918999/key-listeners-in-python)
+- [Drkstr](https://answers.ros.org/question/315716/python-node-for-publishing-keyboard-events/)
+- [rospy Tutorials](http://wiki.ros.org/rospy/Tutorials)
+
+
+
