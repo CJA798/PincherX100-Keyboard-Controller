@@ -1,5 +1,5 @@
 # PincherX100-Keyboard-Controller
-##Keyboard controller for the PincherX 100 robotic arm.
+## Keyboard controller for the PincherX 100 robotic arm.
 
 W-S control the waist  
 E-D control the shoulder  
@@ -10,7 +10,7 @@ Y-H control the gripper
 The speed values are set in the "speed = [-0.075, 0.075]" line of the controller.py file.  
 The default 0.075 would move the joints VERY slow.  
 
-##INSTRUCTIONS:
+## INSTRUCTIONS:
 
 Plug the PX100 robotic arm  
 Find the port using the command dmesg | grep tty  
